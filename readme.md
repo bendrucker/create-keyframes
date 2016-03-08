@@ -37,7 +37,7 @@ Returns the keyframe name. Caches the name so the same value will be returned fo
 *Required*  
 Type: `object`
 
-Keyframe animation data. Can be `{from, to}` or percentages ({0, 25, 100}). The CSS for each frame may be provided in camel case, e.g. `{fontSize: '12px'`.
+Keyframe animation data. Can be `{from, to}` or percentages (`{0, 25, 100}`). The CSS for each frame may be provided in camel case, e.g. `{fontSize: '12px'`.
 
 ## License
 
