@@ -1,7 +1,7 @@
 {
   "name": "create-keyframes",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a CSS keyframe animation in JavaScript",
   "license": "MIT",
   "repository": "bendrucker/create-keyframes",
