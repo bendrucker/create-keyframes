@@ -1,4 +1,4 @@
-# create-keyframes [![Build Status](https://travis-ci.org/bendrucker/create-keyframes.svg?branch=master)](https://travis-ci.org/bendrucker/create-keyframes)
+# create-keyframes [![Build Status](https://travis-ci.org/bendrucker/create-keyframes.svg?branch=master)](https://travis-ci.org/bendrucker/create-keyframes) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/create-keyframes.svg)](https://greenkeeper.io/)
 
 > Create a CSS keyframe animation in JavaScript
 
